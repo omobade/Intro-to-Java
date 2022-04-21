@@ -1,0 +1,11 @@
+public static void main(strings[] args)
+{
+    Systems.out.println ("hello world");
+}
+
+Scanner keyboard = new Scanner(System.in)
+
+System.out.print("What is your name? ");
+String inputs = keyboard.next();
+
+System.out.print("Hello, " +myv)
